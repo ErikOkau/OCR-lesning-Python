@@ -1,0 +1,441 @@
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<< /Creator (HP Exstream Version 8.0.319 64-bit)
+/CreationDate (10/26/2023 01:25:22)
+/Author (Registered to: EDB DRFT)
+/Title (MultiC_JavaConnector_Arkiv)
+>>
+endobj
+%PDF Font (F3)
+6      0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Courier-Bold
+>>
+endobj
+%PDF Font (F7)
+7     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Courier
+>>
+endobj
+%PDF Font (F20)
+8     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Times-Roman
+>>
+endobj
+%PDF Font (F26)
+9     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Times-Bold
+>>
+endobj
+%PDF Font (F41)
+10     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Times-Italic
+>>
+endobj
+%PDF Font (F53)
+11    0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica
+>>
+endobj
+%PDF Font (F56)
+12    0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica-Bold
+>>
+endobj
+%PDF Font (F73)
+13     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica-Oblique
+>>
+endobj
+%PDF Font (F78)
+14    0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica-Bold
+>>
+endobj
+%PDF Font (F79)
+15    0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica
+>>
+endobj
+% PDF Font (F93)
+% FullName (Verdana)
+% FamilyName (Verdana)
+% Font Version (Version 5.33)
+% Notice (© 2016 Microsoft Corporation. All Rights Reserved.)
+% Trademark (Verdana is a trademark of the Microsoft group of companies.)
+16     0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/BaseFont /Verdana
+/FirstChar 30
+/LastChar 255
+/Encoding /WinAnsiEncoding
+/Widths [ 1000 1000 352 394 459 818 636 1076 727 269 454 454 636 818 364 454 
+364 454 636 636 636 636 636 636 636 636 636 636 454 454 818 818 
+818 545 1000 684 686 698 771 632 575 775 751 421 455 693 557 843 
+748 787 603 787 695 684 616 732 684 989 685 615 685 454 454 454 
+818 636 636 601 623 521 623 596 352 623 633 272 344 592 272 973 
+633 607 623 623 427 521 394 633 592 818 592 592 525 635 454 635 
+818 1000 636 1000 269 636 459 818 636 636 636 1521 684 454 1070 1000 
+685 1000 1000 269 269 459 459 545 636 1000 636 977 521 454 981 1000 
+525 615 352 394 636 636 636 636 454 636 636 1000 545 645 818 454 
+1000 636 542 818 542 542 636 642 636 364 636 542 545 645 1000 1000 
+1000 545 684 684 684 684 684 684 984 698 632 632 632 632 421 421 
+421 421 775 748 787 787 787 787 787 818 787 732 732 732 732 615 
+605 620 601 601 601 601 601 601 955 521 596 596 596 596 272 272 
+272 272 612 633 607 607 607 607 607 818 607 633 633 633 633 592 
+623 592 ] 
+/FontDescriptor 17     0 R
+>>
+endobj
+17     0 obj
+<<
+/Type /FontDescriptor
+/Ascent 765
+/CapHeight 0
+/Descent -207
+/Flags 42
+/FontBBox [-560 -303 1523 1051]
+/FontName /Verdana
+/ItalicAngle 0
+/StemV  0
+>>
+endobj
+% PDF Font (F102)
+% FullName (Verdana_Bold)
+% FamilyName (Verdana)
+% Font Version (Version 5.33)
+% Notice (© 2016 Microsoft Corporation. All Rights Reserved.)
+% Trademark (Verdana is a trademark of the Microsoft group of companies.)
+18     0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/BaseFont /Verdana-Bold
+/FirstChar 30
+/LastChar 255
+/Encoding /WinAnsiEncoding
+/Widths [ 1000 1000 342 402 587 867 711 1272 862 332 543 543 711 867 361 480 
+361 689 711 711 711 711 711 711 711 711 711 711 402 402 867 867 
+867 617 964 776 762 724 830 683 650 811 837 546 555 771 637 948 
+847 850 733 850 782 710 682 812 764 1128 764 737 692 543 689 543 
+867 711 711 668 699 588 699 664 422 699 712 342 403 671 342 1058 
+712 687 699 699 497 593 456 712 650 980 669 651 597 711 543 711 
+867 1000 711 1000 332 711 587 1049 711 711 711 1777 710 543 1135 1000 
+692 1000 1000 332 332 587 587 711 711 1000 711 964 593 543 1068 1000 
+597 737 342 402 711 711 711 711 543 711 711 964 598 850 867 480 
+964 711 587 867 598 598 711 721 711 361 711 598 598 850 1182 1182 
+1182 617 776 776 776 776 776 776 1094 724 683 683 683 683 546 546 
+546 546 830 847 850 850 850 850 850 867 850 812 812 812 812 737 
+735 713 668 668 668 668 668 668 1018 588 664 664 664 664 342 342 
+342 342 679 712 687 687 687 687 687 867 687 712 712 712 712 651 
+699 651 ] 
+/FontDescriptor 19     0 R
+>>
+endobj
+19     0 obj
+<<
+/Type /FontDescriptor
+/Ascent 765
+/CapHeight 0
+/Descent -207
+/Flags 42
+/FontBBox [-550 -303 1707 1072]
+/FontName /Verdana_Bold
+/ItalicAngle 0
+/StemV  0
+>>
+endobj
+%PDF Font (F178)
+20     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Helvetica-BoldOblique
+>>
+endobj
+%PDF Font (F211)
+21     0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 4          0 R
+/BaseFont /Times-BoldItalic
+>>
+endobj
+%PDF Font (F297)
+22    0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding 23    0 R
+/ToUnicode 24    0 R
+/BaseFont /Symbol
+>>
+endobj
+23    0 obj
+<<
+/Type /Encoding
+/Differences [ 1/Sigma/epsilon/chi/omicron/nu/delta]
+>>
+endobj
+24    0 obj
+<<
+/Filter [/ASCII85Decode /FlateDecode]
+/Length 321
+>>
+stream
+8;U<-4`?!-%#/tTKu^5T"HJNq.+4AZ-&-lI[+ul[.+45G+Un;G`ds`2+g:7QZ0^)D
+Bs4X>*nZ6(U-fHddaI)`<[SF_S<Scp$rRC]A5U>$>@=/8gD5ikX%*87SZpF:>eJhL
+e8=ebDNF#aY]hJB.6YN3/,T;PTNeP3iJcJX$Clae0k&=BDr:C/6htDT4?E`cM2Ua)
+\mA/<FdhhC'aN7ZIk@YnNa^_lj(jnWP4J\!'M$9;9*0BtUGPaL$Asc?`s[H]ic59*
+!nB#t5f&Yg`ns&8LsC'#,Za)[f6G2HPDgrMpG6#`aToN?=+C;O-@gD+~>
+endstream
+endobj
+% PDF Font (F301)
+% FullName (Verdana_Italic)
+% FamilyName (Verdana)
+% Font Version (Version 5.33)
+% Notice (© 2016 Microsoft Corporation. All Rights Reserved.)
+% Trademark (Verdana is a trademark of the Microsoft group of companies.)
+25     0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/BaseFont /Verdana-Italic
+/FirstChar 30
+/LastChar 255
+/Encoding /WinAnsiEncoding
+/Widths [ 1000 1000 352 394 459 818 636 1076 727 269 454 454 636 818 364 454 
+364 454 636 636 636 636 636 636 636 636 636 636 454 454 818 818 
+818 545 1000 683 686 698 766 632 575 775 751 421 455 693 557 843 
+748 787 603 787 695 684 616 732 683 990 685 615 685 454 454 454 
+818 636 636 601 623 521 623 596 352 622 633 274 344 587 274 973 
+633 607 623 623 427 521 394 633 591 818 592 591 525 635 454 635 
+818 1000 636 1000 269 636 459 818 636 636 636 1519 684 454 1070 1000 
+685 1000 1000 269 269 459 459 545 636 1000 636 977 521 454 980 1000 
+525 615 352 394 636 636 636 636 454 636 636 1000 545 645 818 454 
+1000 636 542 818 542 542 636 642 636 364 636 542 545 645 1000 1000 
+1000 545 683 683 683 683 683 683 989 698 632 632 632 632 421 421 
+421 421 766 748 787 787 787 787 787 818 787 732 732 732 732 615 
+605 620 601 601 601 601 601 601 955 521 596 596 596 596 274 274 
+274 274 612 633 607 607 607 607 607 818 607 633 633 633 633 591 
+623 591 ] 
+/FontDescriptor 26     0 R
+>>
+endobj
+26     0 obj
+<<
+/Type /FontDescriptor
+/Ascent 765
+/CapHeight 0
+/Descent -207
+/Flags 106
+/FontBBox [-453 -303 1585 1051]
+/FontName /Verdana_Italic
+/ItalicAngle -13
+/StemV  0
+>>
+endobj
+% PDF Font (F309)
+% FullName (Interleaved_2of5_Text)
+% FamilyName (I2OF5TXT)
+% Font Version (Fontlab V2.5 8/17/98)
+% Notice (Copyright 1998 by Chaos Microsystems Inc., All rights reserved.)
+27     0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/BaseFont /Interleaved2of5Text
+/FirstChar 30
+/LastChar 241
+/Encoding /WinAnsiEncoding
+/Widths [ 742 742 720 742 742 742 742 742 742 742 160 240 742 742 742 742 
+742 742 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 742 
+742 742 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 720 
+720 720 720 720 ] 
+/FontDescriptor 28     0 R
+>>
+endobj
+28     0 obj
+<<
+/Type /FontDescriptor
+/Ascent 0
+/CapHeight 0
+/Descent 0
+/Flags 42
+/FontBBox [0 -250 720 688]
+/FontName /Interleaved_2of5_Text
+/ItalicAngle 0
+/StemV  0
+>>
+endobj
+4 0 obj
+<</Type/Encoding/BaseEncoding/WinAnsiEncoding/Differences[
+32 /space/exclam/quotedbl/numbersign/dollar/percent/ampersand/quotesingle/parenleft/parenright/asterisk/plus/comma/hyphen/period/slash
+/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon/less/equal/greater/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P
+/Q/R/S/T/U/V/W/X/Y/Z/bracketleft/backslash/bracketright/asciicircum/underscore/grave/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w
+/x/y/z/braceleft/bar/braceright/asciitilde/.notdef/Euro/.notdef/quotesinglbase/florin/quotedblbase/ellipsis/dagger/daggerdbl/circumflex
+/perthousand/Scaron/guilsinglleft/OE/.notdef/Zcaron/.notdef/.notdef/quoteleft/quoteright/quotedblleft/quotedblright/bullet/endash
+/emdash/tilde/trademark/scaron/guilsinglright/oe/.notdef/zcaron/Ydieresis/space/exclamdown/cent/sterling/currency/yen/brokenbar/section
+/dieresis/copyright/ordfeminine/guillemotleft/logicalnot/hyphen/registered/macron/degree/plusminus/twosuperior/threesuperior/acute
+/mu/paragraph/periodcentered/cedilla/onesuperior/ordmasculine/guillemotright/onequarter/onehalf/threequarters/questiondown/Agrave
+/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex/Idieresis/Eth
+/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute/Thorn/germandbls/agrave
+/aacute/acircumflex/atilde/adieresis/aring/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave/iacute/icircumflex/idieresis/eth
+/ntilde/ograve/oacute/ocircumflex/otilde/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis/yacute/thorn/ydieresis]
+>>
+endobj
+31 0 obj
+<</Length 2723/Filter/FlateDecode>>stream
+xÚXpSevYZ»õ®‡b¡$÷‘›ä–‚$Ímò47M‹KjnCÌ“›ô¡,›•¶€ŠÂÚ"ìJuJ‡îŒK­Y²ãª³;ÛêVp$Ôqg-ååÚR·Üıóè„dofnozÿóïÿÎùÏùÿ &"$€Å>Oº!;z*†L¥9S\D`@’"]`®œÂ’€ÙËŒEå4€ù)ÈdÌ7ZIA‚‹¤R©,n%‘.—ÇÍŠ¼|ÀÏ¾
+RB‡ó8ğ;lÜ-°(ò:r)„ƒ™¸@Ÿ¬ÏÊsUV“ó€ÁåÁ­¡®£…ã‹NÌGexãf8S"ö/‚áHŒ Ó †	yªD £i:(i¨dLÅŒ~L1H .a‚Ó¸Ç	YâÙ,¤@§¥qO,’ÎÃ‹ ÿ$e"
+CÓB¶†NÚbMP2#ätj’!¾ˆÆ;ŸFqt‚Ûb°R’xaôúU^§¤FŞğ’Óät5äˆdJ‘RO#r˜$&ÿTøEµ(ükı¾Z‘Ç{ƒc=JºØ |¨««İtˆ¦Æcãü_ëx’Ë§ £Ğ5I	` Hi<¾V piü.—Š»œˆ­ ¥ÄeñAâ’ø±ÒXè[!âb¡§BtS¡ @¬•±W^WÛãOX™¼uş˜áš5 VÁªµëÏÍzN2÷Ì†ytî¬3ìí›ó–æ®>eù [ŸıOÈ9µ¢­ã­ŒÀÉ·—ëş$‹Í9ò]ó¬»ViòÕğÌØÒÁñï_˜SÔ4=©ÎÚ9>Ô–ß¼xø‰}ÛşşµıqR3räØãÃ=ƒ¡¯û‚½ƒ¡Îèşh×C¡ì¿ù"×¦;0sIõº7ş"×Mn:e™Sÿ‰ë|ë.ó}%Úõø`gcx«Í*ÈÚôìïˆ-‡f~Öîœ¯úË¥ûÃÍ?7tw¶ş`™AÑøàù†ğö¹ŸÛîß>wÿíŸşéÃ£•UÍaÇÛCŠ/Ö^îØ·¢aØÓVøÒ7áØ«_iÊhŒ¾ÜqşÙoÙoEmëèÙÃ‹W=£şª_1ÿ`IÁCwùïÌ)h8Ô¶KıŞì=<fyàá¾Ùm§a¯zÆ3çjmtgöm,XÚÿp=ûÅGÏZteCOÛÕƒİG‡Kš
+÷îÚûÑÕÙ‰æş[{Ûö…ëÔK_­[Œ:jú½‘ç…ìÎ¡¡èhîx·a£ÎÂHååP4Ë"vu•Ñ®Zd‘Q!º/¸mu4»SøXø~ãè±á…‚
+9:Fºu‚Ğ;¼¨óã;/æF»‚Be¯5šU&Bèò‰E}+‚c»Ë„¯·¢·#‚ğŸ»µ»l CÈA¡]8Ùê}K„.D"{›uhÙ%á°nSlCH‘Ñ‹²ï5Âat|ìÑğ¸ôıã—"Y£o¾$„Fİc¹•Îsû…º+¡ÒêŞ­—‚u#¡>Ó{»–V~ú³vœhvvn;~-òş6_Ç©eÎyµ¶F†•™M…XøZ¡Üê~ùë‹ÄÂö-¾ª¨ïâmå¥3Şµ¿ç¾ÅØëW?[ó6[¶³]ñî•k_îŸóÍ–»wû·‚uGŞ,YPî8röeßÁ}íÃÖOŒ¾M3{vd´¿ªöG¶6îÌ^ºk/>saáËd;3Úçœl‘çä;ZäŠzîü{J%á÷ıbòºïáÛ~³©ağKªšgì¸7üÍ’peF}ÓÙïÄw„¯vÕolê«×Yçß›Ÿ²–çİÓ´½Ã’¹pŞîó†‹ı³‘pÍy}_Ë¶Eª@`Ïùä§shìygq{SëéÚÍÏ/¼Vß?b]U¹Aç¯ø÷êÈê÷.ÛøOg¯=óÚY}f7ã`]Ûµã#:zK®to_q™„Ê+ê‚á¦POÓú¼yš!8í>^{4(ŒFë¼;Æ¤wF„ñ=İµİu…îwN„„Pàò+çF6h„aëaç±£‡ªŞı[ğÕá—>Ï.ùíÑÅİ;î]Ã^m}óü1}59ãGŞ|nMNìZÜ¸@ÙsG‰Jµ÷—¯lè½ç¶¬Ÿ£†Çà'­šÂDX²ĞÇZ5Aát¼²Yb­–«ÒB8F †@Ë)ìV­í&`¤4¦8°àúØÁ
+µÀ¥EH©8”ÁçãçrØÅ^ŸÏÆ[íş*ÎUAÊ0_jhR|SjJÉŠ 0é”.ÉÃ°4¸c‰n¡ğØxâ}‡÷ƒ×íD]ÏãğØ9>æI°Ô™“Ó¬°´ˆã’Dü”IÁí¬@t' ÒzÂ*M¡1O¶eŞŸš7L>ÍÇóä{—†ËØNÙê¼Z·9ÒfÂToĞ¤F—O³Â¥TI¤L§eÔ´…ÍıŸé7	“2éX<'­ˆ´ò§ñDÖš½«&–98yÎæ@ç@:¼“Pi‰=i…KÒ['‚dqÀf+?ElÏùÁéõ¼€¶à)&)&Ÿ‚$¥è !%Ñ!ƒ¦e©3’QÉğ[]5ˆ	
+»ß6q~Ia•S±ÓMü”#Mİ»”Â'ªw¼bÛh±ä§fOJ¤· ğÇki:0Q©4•*¥²¼¼<õIPdB€"sTq¼=t^ÃiMÇBí±*ªvGôµb¿*–U{y7Ç»%š(ùÔ‰Id‰,-ã.‡Ûæå«ÑY™ …†b„[êip@UÔrtVŞã¨B’¯ä^BŸgKÇ1)Å“]ge_SÏ¹\œå“VŸÔw8:¦Ş,eĞ†ã­?—NŞL`é½ï­Eçg[Ö(ì‰ˆ‹hß’è¢Îô FSÉhø9Ã§cJ&Èç§¬ì1JIKØŸâ\¶”)#y²ä+.®ªú-¨«K ÚêÔ ıy %$!%±<pŞsÚÏ1L™<ÁKÅèõŒÆb……Ñƒy£gLÀt 1Õ °€’1+´j}1«c´*ôÌj-XÚR³ÂÄ«Y3cbÌ"Ğ™D©{Oş†t=L‘ÁÄjLê"3"b4&á*Î˜ÅSÍñ±Zƒ%1Š‹0*>*eïRšNÎİ›hZ<ëì:ƒş&“‰D9€4)bÔÚ<`½Ša‘8&“º˜1™'dJİy2ÿoùeÈ©R¡× ï†5çFaT#õu
+“†QA‘¢<(ŠÀ‘|0Z-b…ìòS÷'Éh`ÍJƒ†ıéd"ˆ‰HcL=â§]ÏêQØc
+¨õ±äP•‚±‚Ä((++±F‹HoH=ò”,ÙÎA0£{q> ¢5š9¬ ¥ºPÌ–¡$@¨ ØÄèYFcZÏÆ…ŸLFDCL©˜© IŒMÃ=™H<¸nn‰YbwT=c6£Ø«ò§Íõ6æM:DÌ`R1f”:ˆtNÅ#©È¹S×òåËÁ¬-ŠÍ‘² uscb-”šµ
+=b±B"K ±Øø”İ‘ÉüäRqèè‡6‚hCUà\¨juö§]6TVÑ¾Æ~‡İcEfÒÙunW
+endstream
+endobj
+32 0 obj
+<</Type/Page/Parent 33 0 R/Contents 31 0 R/Resources 5 0 R>>
+endobj
+35 0 obj
+<</Length 249/Filter/FlateDecode>>stream
+xÚ•PMKÃ@½çW¼£BYgg³›¬··9!4¡ôª6ÖØ4ÿ½ùjªg/y¼Y`4¾3x9Á#”À‹ïnÍ¥„Å+¤–Ğ>Š=n²õÎZÜ¢x‡çŠk•/…1&8«<éúö~’ICÇk!‡Äj"˜ÕBäÕ¾l>x„Á²'²¬EÚ4à¹A~üêû²F”/®rq]!k»ş¹=v0LK£/¬­Bì6‰K¤&ğñ9'HË8Û×ÈùOM‚†¹ô¢ĞLÛ²iêê€·ªîÊæï»®ôÎweÑÆÅQúèRl]^¬.ß¬l
+endstream
+endobj
+36 0 obj
+<</Type/Page/Parent 33 0 R/Contents 35 0 R/Resources 5 0 R>>
+endobj
+33 0 obj
+<</Type/Pages/Count 2/Kids[32 0 R 36 0 R]/MediaBox[0 0 595 842]/Resources 5 0 R>>
+endobj
+5 0 obj
+<</ProcSet[/PDF/ImageB/ImageC/Text]/Font<</F3 6 0 R 
+/F7 7 0 R /F20 8 0 R /F26 9 0 R /F41 10 0 R /F53 11 0 R /F56 12 0 R /F73 13 0 R /F78 14 0 R /F79 15 0 R /F93 16 0 R 
+/F102 18 0 R /F178 20 0 R /F211 21 0 R /F297 22 0 R /F301 25 0 R /F309 27 0 R >>
+>>
+endobj
+29 0 obj
+<</Title (1483: )/Dest[32 0 R/XYZ 999 999 0]/Parent 3 0 R/First 30 0 R/Last 30 0 R/Count -1>>
+
+endobj
+30 0 obj
+<</Title (XML00_Oppgave)/Dest[32 0 R/XYZ 999 999 0]/Parent 29 0 R/First 34 0 R/Last 37 0 R/Count -2>>
+
+endobj
+34 0 obj
+<</Title (1: XML00_Oppgave)/Dest[32 0 R/XYZ 999 999 0]/Parent 30 0 R/Next 37 0 R>>
+
+endobj
+37 0 obj
+<</Title (şÿ 2 :   M u l t i C _ D e f a u l t _ F l o w _ p a g e _ M e d _ F o r t s e t t e l s e _ p å _ n e s t e _ s i d e)/Dest[36 0 R/XYZ 999 999 0]/Parent 30 0 R/Prev 34 0 R>>
+
+endobj
+3 0 obj
+<< /Count 1 /First 29 0 R /Last 29 0 R >>
+endobj
+2 0 obj
+<</Type/Catalog/Pages 33 0 R/Outlines 3 0 R/PageMode/UseOutlines>>
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000015 00000 n 
+0000014106 00000 n 
+0000014049 00000 n 
+0000008230 00000 n 
+0000013248 00000 n 
+0000000203 00000 n 
+0000000321 00000 n 
+0000000434 00000 n 
+0000000551 00000 n 
+0000000667 00000 n 
+0000000786 00000 n 
+0000000901 00000 n 
+0000001021 00000 n 
+0000001145 00000 n 
+0000001265 00000 n 
+0000001591 00000 n 
+0000002698 00000 n 
+0000003104 00000 n 
+0000004219 00000 n 
+0000004414 00000 n 
+0000004543 00000 n 
+0000004667 00000 n 
+0000004779 00000 n 
+0000004873 00000 n 
+0000005522 00000 n 
+0000006636 00000 n 
+0000007009 00000 n 
+0000008053 00000 n 
+0000013517 00000 n 
+0000013628 00000 n 
+0000009887 00000 n 
+0000012679 00000 n 
+0000013150 00000 n 
+0000013747 00000 n 
+0000012756 00000 n 
+0000013073 00000 n 
+0000013847 00000 n 
+trailer<</Size 38/Info 1 0 R/Root 2 0 R
+>>
+startxref
+14188
+%%EOF

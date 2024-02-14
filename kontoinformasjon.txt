@@ -1,0 +1,9 @@
+Navn = 'OCR Testing'
+Bursdag 29/10/2001 
+SMTP_SERVER = 'smtp-mail.outlook.com'
+IMAP_PORT = 993
+SMTP_PORT = 587
+IMAP_PASSORD = 'TestingOCR'
+SMTP_USERNAME = 'OCRTesting'
+SMTP_PASSWORD = 'TestingOCR'
+EMAIL_PASSWORD = 'OCRTesting123'
